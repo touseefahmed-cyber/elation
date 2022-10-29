@@ -1,0 +1,102 @@
+.wrapper{
+    max-width: 1230px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wrapper2{
+    max-width: 1333px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,
+.special-heading{
+    color: #390049;
+    font-size: 74px;
+    font-weight: 600;
+    line-height: 84px;
+    letter-spacing: 1px;
+}
+h2{
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: 1px;
+}
+.color-0CCE6B{
+    color: #0CCE6B;
+}
+.color-390049{
+    color: #390049;
+}
+.generic-btn a {
+    text-decoration: none;
+    padding: 17px 33px 18px 34px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    clip-path: polygon(0 2%, 100% 0, 100% 100%, 0 100%);
+    letter-spacing: 0.5px;
+}
+.purple-btn a{
+    background: #390049;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+}
+.purple-btn a:hover{
+    background: #0CCE6B;
+}
+.white-btn a:hover{
+    background: #F2DC5D;
+    color: #fff;
+}
+.generic-btn.purple-btn:after,
+.generic-btn.white-btn:after{
+    content: "";
+    background: url(../images/border-img2.png) no-repeat bottom left;
+    width: 227px;
+    height: 71px;
+    position: absolute;
+    left: -13px;
+    top: 8px;
+    webkit-animation: mover 1s infinite alternate;
+    animation: mover 2s infinite alternate;
+}
+.generic-btn.white-btn:after{
+    background: url(../images/border-img3.png) no-repeat bottom left;
+}
+.generic-btn.talk-btn:after{
+    background: url(../images/border-img.png) no-repeat bottom left;
+    width: 217px;
+    height: 71px;
+    position: absolute;
+    left: -13px;
+    top: 10px;
+}
+.white-btn a{
+    background: #fff;
+    color: #0CCE6B;
+    position: relative;
+    z-index: 1;
+}
+@-webkit-keyframes mover {
+    0% { transform: translatey(0); }
+    100% { transform: translatey(5px); }
+}
+.border-line span,
+.border-line small{
+    position: relative;
+}
+.border-line span:after,
+.border-line small:after{
+    left: 0;
+    bottom: 15px;
+    width: 100%;
+    height: 14px;
+    content: '';
+    position: absolute;
+    background: #F2DC5D;
+    clip-path: polygon(0 4%, 96% 0, 100% 97%, 0 96%);
+    transition: ease-in-out 0.3s;
+    z-index: -1;
+}

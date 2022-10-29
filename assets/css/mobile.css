@@ -1,0 +1,872 @@
+@media screen and (max-width: 1400px) {
+    .main-box{
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .nav-menu ul {
+        padding: 60px 80px;
+    }
+    .nav-menu ul li {
+        margin-bottom: 36px;
+    }
+    .nav-menu ul li a {
+        font-size: 38px;
+        line-height: 34px;
+    }
+    .header-con {
+        padding: 28px 38px 28px;
+    }
+    h1, .special-heading {
+        font-size: 62px;
+        line-height: 70px;
+    }
+    .banner-title h1 {
+        margin-bottom: 52px;
+    }
+    .banner-con:after {
+        width: 688px;
+        height: 700px;
+        background-size: contain;
+    }
+    .banner-con {
+        height: 850px;
+    }
+    .offer-con {
+        padding-top: 80px;
+    }
+    h2 {
+        font-size: 50px;
+        line-height: 54px;
+    }
+    .success-box {
+        width: 640px;
+        padding:70px 60px;
+    }
+    .service-con {
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }
+    .service-title h2 {
+        margin-bottom: 38px;
+    }
+    .service-title p {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 90px;
+    }
+    .about-box {
+        padding: 48px 50px 64px 80px;
+    }
+    .about-con {
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }
+    .banner-con .carousel-indicators {
+        bottom: -150px;
+    }
+    .service-item {
+        padding: 60px 26px 48px;
+    }
+    .about-con .wrapper:before {
+        width: 650px;
+        height: 650px;
+        background-size: contain;
+    }
+    .testimonial-con {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .testimonial-heading h4 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 40px;
+    }
+    .testimonial-heading span {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 14px;
+    }
+    .client-con {
+        margin-top: 100px;
+    }
+    .client-con .owl-carousel {
+        padding: 0 50px 90px;
+    }
+    .client-con {
+        padding-top: 90px;
+    }
+    .client-con .owl-dots {
+        bottom: 42px;
+    }
+    .blog-con {
+        padding-top: 120px;
+    }
+    .blog-title {
+        margin-bottom: 80px;
+    }
+    .blog-box-item img{
+        width: 100%;
+    }
+    .blog-box-item {
+        margin: 0 20px;
+    }
+    .blog-box-title h4,
+    .help-title p{
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+    .blog-box-title {
+        padding: 80px 40px 80px;
+    }
+    .blog-box-item2 img {
+        margin-top: 50px;
+    }
+    .help-title {
+        padding: 60px 74px;
+    }
+    .help-title h2 {
+        margin-bottom: 24px;
+    }
+    .footer-con {
+        padding: 45px 3%;
+    }
+    .footer-box {
+        margin-top: 54px;
+        margin-bottom: 54px;
+    }
+    .copright-con ul li:nth-child(2) {
+        margin: 0 50px;
+    }
+}
+@media screen and (max-width: 1199px) {
+    .testimonial-heading h4 br{
+        display: none;
+    }
+    .banner-con:after {
+        width: 590px;
+        height: 600px;
+    }
+    h1, .special-heading {
+        font-size: 48px;
+        line-height: 52px;
+    }
+    .banner-con {
+        height: 740px;
+    }
+    .banner-btn a {
+        padding: 18px 52px 18px;
+    }
+    .banner-con .carousel-indicators {
+        bottom: -125px;
+    }
+    .offer-con {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    h2 {
+        font-size: 44px;
+        line-height: 48px;
+    }
+    .success-box {
+        width: 550px;
+        padding: 60px 50px;
+    }
+    .growth-box p {
+        margin-bottom: 28px;
+    }
+    .growth-box {
+        padding: 48px 50px;
+        width: 390.77px;
+        margin-top: -160px;
+    }
+    .generic-btn a {
+        padding: 16px 28px 16px;
+    }
+    .service-con {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .service-title h2 {
+        margin-bottom: 24px;
+    }
+    .service-title p {
+        font-size: 26px;
+        line-height: 36px;
+        margin-bottom: 75px;
+    }
+    .service-item li {
+        font-size: 16px;
+    }
+    .service-item {
+        padding: 48px 14px 40px;
+    }
+    .service-item p {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+    .service-item span {
+        margin-bottom: 18px;
+        font-size: 16px;
+    }
+    .service-item ul {
+        margin-bottom: 24px;
+    }
+    .about-con {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .about-box {
+        padding: 44px 50px 60px 62px;
+    }
+    .about-box h2 {
+        margin-bottom: 20px;
+    }
+    .about-box p {
+        margin-bottom: 28px;
+    }
+    .about-con .wrapper:before {
+        width: 490px;
+        height: 490px;
+    }
+    .testimonial-con {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .testimonial-heading h4 {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 30px;
+    }
+    .testimonial-heading span {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 10px;
+    }
+    .client-con {
+        padding-top: 70px;
+    }
+    .client-con {
+        padding-top: 60px;
+    }
+    .client-con .owl-carousel {
+        padding: 0 50px 60px;
+    }
+    .client-con .owl-dots {
+        bottom: 22px;
+    }
+    .client-con h6 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 52px;
+    }
+    .blog-con {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .blog-box-item {
+        margin: 0 17px;
+    }
+    .blog-box-title {
+        padding: 40px 34px;
+    }
+    .blog-box-title h4, .help-title p {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .blog-title {
+        margin-bottom: 70px;
+    }
+    .help-con {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .help-title {
+        padding: 50px 70px;
+    }
+    .footer-con {
+        padding: 42px 3%;
+    }
+    .site-map h5 {
+        margin-bottom: 30px;
+    }
+    .company-con {
+        padding: 0 18px;
+    }
+    .site-map ul li a {
+        margin-bottom: 8px;
+    }
+    .footer-box {
+        margin-top: 45px;
+        margin-bottom: 45px;
+    }
+    .social-con span {
+        margin-bottom: 16px;
+    }
+    .nav-menu ul {
+        padding: 40px 64px;
+    }
+    .nav-menu ul li {
+        margin-bottom: 26px;
+    }
+    .nav-menu ul li a {
+        font-size: 30px;
+        line-height: 30px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .nav-menu ul {
+        padding: 35px 52px;
+    }
+    .nav-menu ul li a {
+        font-size: 26px;
+        line-height: 26px;
+    }
+    .nav-menu ul li {
+        margin-bottom: 20px;
+    }
+    h1, .special-heading {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .banner-con:after {
+        width: 400px;
+        height: 400px;
+    }
+    .banner-title h1 {
+        margin-bottom: 40px;
+    }
+    .banner-btn a {
+        padding: 16px 38px;
+        font-size: 16px;
+    }
+    .banner-con {
+        height: 550px;
+    }
+    .banner-con .carousel-indicators {
+        bottom: -90px;
+    }
+    .growth-box {
+        padding: 44px 42px;
+        width: 50%;
+        margin-top: 78px;
+    }
+    body {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .generic-btn a {
+        font-size: 16px;
+        padding: 14px 22px;
+    }
+    .generic-btn.purple-btn:after, .generic-btn.white-btn:after {
+        width: 230px;
+        height: 54px;
+        background-size: contain;
+    }
+    h2 {
+        font-size: 38px;
+        line-height: 40px;
+    }
+    .success-box {
+        width: 50%;
+        float: left;
+        padding: 60px 50px;
+    }
+    .border-line span:after, .border-line small:after {
+        bottom: 9px;
+    }
+    .service-con {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .service-title h2 {
+        margin-bottom: 20px;
+    }
+    .service-title p {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 42px;
+    }
+    .service-item img {
+        width: 168px;
+    }
+    .service-item span {
+        margin-bottom: 14px;
+        font-size: 14px;
+    }
+    .service-item li {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .service-item {
+        padding: 36px 15px;
+    }
+    .service-item p {
+        font-size: 14px;
+    }
+    .service-item ul {
+        margin-bottom: 18px;
+    }
+    .about-con {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .about-box h2 {
+        margin-bottom: 16px;
+    }
+    .about-box h2 br,
+    .about-box p br,
+    .testimonial-heading h4 br,
+    .help-title p br{
+        display: none;
+    }
+    .about-box p {
+        margin-bottom: 20px;
+    }
+    .about-btn a {
+        width: 180px;
+    }
+    .about-box {
+        padding: 40px 35px;
+        width: 450px;
+    }
+    .about-con .wrapper:before {
+        width: 389px;
+        height: 490px;
+        bottom: -11px;
+    }
+    .about-con .wrapper:before {
+        width: 389px;
+        height: 490px;
+    }
+    .testimonial-heading h4 {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 22px;
+    }
+    .testimonial-heading span {
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .testimonial-con .carousel-indicators {
+        bottom: -24px;
+    }
+    .client-con {
+        margin-top: 60px;
+    }
+    .client-con h6 {
+        font-size: 20px;
+        margin-bottom: 34px;
+    }
+    .client-con .owl-carousel .owl-item img {
+        width: 170px;
+    }
+    .client-con .owl-nav button.owl-prev,
+    .client-con .owl-nav button.owl-next{
+        top: 13px;
+    }
+    .testimonial-con,
+    .blog-con{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .blog-title {
+        margin-bottom: 50px;
+    }
+    .blog-box-title {
+        padding: 34px 9px;
+    }
+    .blog-box-title h4, .help-title p {
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 18px;
+    }
+     .blog-box-item {
+       margin: 0 13px;
+     }
+    .blog-box-item2 img {
+        margin-top: 40px;
+    }
+    .help-title h2 {
+        margin-bottom: 20px;
+    }
+    .footer-logo img{
+        margin-bottom: 30px;
+    }
+    .footer-box {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .site-map h5 {
+        margin-bottom: 20px;
+    }
+    .company-con {
+        padding: 0 34px;
+    }
+    .help-con {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .testimonial-heading figure img {
+        width: 72px;
+    }
+    .testimonial-heading.position-relative {
+        padding-left: 67px;
+    }
+    .testimonial-con .carousel-indicators {
+        margin-left: 0;
+    }
+    h1, .special-heading {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .banner-con:after {
+        width: 340px;
+        height: 340px;
+    }
+    .banner-title h1 {
+        margin-bottom: 30px;
+    }
+    .header-con {
+        padding: 20px 2%;
+    }
+    .banner-btn a {
+        padding: 14px 30px;
+    }
+    .banner-con {
+        height: 480px;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+    .nav-menu ul {
+        padding: 28px 30px;
+    }
+    .nav-menu ul li {
+        margin-bottom: 18px;
+    }
+    .nav-menu ul li a {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .banner-con .carousel-indicators {
+        bottom: -70px;
+    }
+    .offer-con,
+    .about-con{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .success-box {
+        width: 100%;
+        padding: 40px 50px;
+    }
+    h2 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .growth-box {
+        padding:42px;
+        margin-top: 15px;
+        width: 100%;
+    }
+    .growth-box p {
+        margin-bottom: 24px;
+        line-height: 28px;
+    }
+    .service-con,
+    .testimonial-con,
+    .blog-con{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .service-title h2 {
+        margin-bottom: 12px;
+    }
+    .service-title p {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 30px;
+    }
+    .service-item {
+        padding: 30px 15px;
+        margin-bottom: 20px;
+    }
+    .service-item li {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .service-item p,
+    .service-item span{
+        font-size: 16px;
+    }
+    .about-con .wrapper:before{
+        display: none;
+    }
+    .about-box {
+        padding: 28px 30px;
+        width: 100%;
+    }
+    .border-line span:after, .border-line small:after {
+        bottom: 3px;
+    }
+    .testimonial-heading h4 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 14px;
+    }
+    .puzzle-img img {
+        height: 280px;
+    }
+    .testimonial-con .carousel-indicators {
+        bottom: -42px;
+        left: 50%;
+    }
+    .client-con {
+        padding-top: 50px;
+    }
+    .client-con .owl-carousel .owl-item img {
+        width: 130px;
+    }
+    .client-con .owl-nav button.owl-prev, .client-con .owl-nav button.owl-next {
+        top: 6px;
+    }
+    .client-con .owl-dots {
+        left: 50%;
+        transform: translatex(-50%);
+    }
+    .blog-title {
+        margin-bottom: 40px;
+    }
+    .blog-box-item {
+        width: 100%;
+    }
+    .blog-box-item.blog-box-title {
+        padding: 24px 48px;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .blog-box-item2 img {
+        margin-top: 0;
+    }
+    .blog-box-item {
+        width: 47%;
+    }
+    .blog-box-item {
+        margin: 0 15px;
+    }
+    .blog-box-item2{
+        margin-left: 0;
+    }
+    .help-title {
+        padding: 30px 60px;
+        width: 100%;
+    }
+    .blog-box-title h4, .help-title p {
+        font-size: 20px;
+        line-height: 29px;
+        margin-bottom: 14px;
+    }
+    .generic-btn a {
+        font-size: 14px;
+        padding: 12px 14px;
+    }
+    .generic-btn.purple-btn:after, .generic-btn.white-btn:after {
+        width: 150px;
+        height: 50px;
+        top: 7px;
+    }
+    .about-btn a {
+        width: 149px;
+    }
+    .talk-btn a {
+        width: 149px;
+    }
+    .help-title h2 {
+        margin-bottom: 14px;
+    }
+    .footer-con {
+        padding: 30px 3%;
+    }
+    .site-map {
+        margin-bottom: 20px;
+        width: 33.33%;
+    }
+    .company-con {
+        padding: 0;
+    }
+    .site-map h5 {
+        margin-bottom: 14px;
+    }
+    .site-map ul li a {
+        margin-bottom: 4px;
+    }
+    .social-con ul {
+        margin-bottom: 8px;
+    }
+    .copright-con span br{
+        display: none;
+    }
+    .copright-con span{
+        padding-right: 0;
+        margin-bottom: 8px;
+    }
+    .service-con .row{
+        margin: 0;
+    }
+
+}
+@media screen and (max-width: 575px) {
+    .client-con .owl-dots {
+        bottom: 12px;
+    }
+    .nav-menu ul li a::after, .copright-con ul li a::after {
+        height: 8px;
+    }
+    .main-box{
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    .banner-con {
+        height: 400px;
+    }
+    .banner-con:after,
+    .banner-title h1 br,
+    .service-title h2 br,
+    .service-title p br,
+    .testimonial-heading figure img{
+        display: none;
+    }
+    .testimonial-con .carousel-indicators {
+        left: 40%;
+    }
+    .testimonial-heading.position-relative {
+        padding-left: 0;
+    }
+    .banner-title h1 {
+        margin-bottom: 18px;
+    }
+    h1, .special-heading {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .banner-btn a {
+        padding: 13px 20px;
+        letter-spacing: normal;
+        font-size: 14px;
+    }
+    .navbar-brand img {
+        width: 140px;
+    }
+    .banner-con .carousel-indicators{
+        margin-right: 0;
+    }
+    .nav-menu {
+        width: 100%;
+    }
+    .nav-menu ul li {
+        margin-bottom: 12px;
+    }
+    .nav-menu ul li a {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .nav-menu ul {
+        padding: 24px 26px;
+    }
+    h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .success-box {
+        padding: 35px 15px;
+    }
+    .growth-box {
+        padding: 36px 15px 36px 30px;
+    }
+    .generic-btn.purple-btn:after, .generic-btn.white-btn:after {
+        width: 146px;
+        height: 48px;
+        top: 7px;
+        left: -10px;
+    }
+    .border-line span:after, .border-line small:after {
+        height: 10px;
+    }
+    .service-title p {
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 26px;
+    }
+    .service-title h2 {
+        margin-bottom: 18px;
+    }
+    .offer-con, .about-con,
+    .service-con, .testimonial-con, .blog-con,.help-con{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .puzzle-img img {
+        height: 220px;
+        margin-bottom: 15px;
+    }
+    .testimonial-heading h4 {
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 14px;
+    }
+    .testimonial-heading span {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .client-con {
+        margin-top: 50px;
+    }
+    .client-con .owl-carousel .owl-item img {
+        width: 100%;
+    }
+    .client-con h6 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+    .client-con .owl-nav button.owl-prev, .client-con .owl-nav button.owl-next {
+        top: -8px;
+    }
+    .client-con .owl-carousel {
+        padding: 0 12px 50px;
+    }
+    .blog-title {
+        margin-bottom: 30px;
+    }
+    .blog-box-item{
+        width: 100%;
+    }
+    .blog-box-item img{
+        height: 300px;
+        object-fit: cover;
+    }
+    .blog-box-item {
+        margin: 0;
+    }
+    .blog-box-item2 img {
+        margin-bottom: 15px;
+    }
+    .help-title {
+        padding: 28px 15px;
+    }
+    .blog-box-title h4, .help-title p {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .site-map {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .contact-con{
+        width: 100%;
+    }
+}
